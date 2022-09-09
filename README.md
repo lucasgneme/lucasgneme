@@ -1,6 +1,6 @@
 ### 👋🌐
 
-I’m **Lucas Neme**, Developer & Ed-Tech from San Luis, Argentina.
+I’m **Lucas Neme**, freelancer developer from San Luis, Argentina.
 
 Founder of [**@alphadeveloping**](https://www.alphadev.vercel.app/), a zero cost online computer training program where students will learn how to take off their career as a web developer.
 
